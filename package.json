@@ -1,0 +1,12 @@
+{
+  "name": "kolokvijum-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kristijan Koncar <kristijankoncar@gmail.com>",
+  "license": "private",
+  "private": true,
+  "dependencies": {
+    "faker": "^5.1.0",
+    "mongodb": "^3.6.1"
+  }
+}
